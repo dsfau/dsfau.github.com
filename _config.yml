@@ -1,9 +1,9 @@
 # Site settings
 title: U3lzLVNlY3VyZQo=
 email: diego.soto.fau@gmail.com
-description:This is my personal page. I pretend update this blog weekly with articles oriented a cibsecurity themes
+description: This is my personal page. I pretend update this blog weekly with articles oriented a cibsecurity themes
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://dsfau.github.io" # the base hostname & protocol for your site
 twitter_username: sys_secure
 github_username:  dsfau
 
