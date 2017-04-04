@@ -47,7 +47,8 @@ The disadvantages to CRL are:
   2. CRLs are updated periodically every 5-14 days. Potentially leaving the attack surface open until the next CRL update.
   3. The CRL is not checked for OV or DV based certificates.(OV: Organization Validation, DV: Domain Validation)  
   4. If the client is unable to download the CRL then by default the client will trust the certificate. 
-# OCSP
+
+## OCSP
 
 OCSP remove many of disadvantages of CRL, for example permit to the client check the status for a single certificate.
 
