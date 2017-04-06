@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Controlling a PC using Wifi SSID's"
-date:   2017-04-6 12:18:29 +0200
+date:   2017-04-9 12:18:29 +0200
 categories: blog
 ---
 # Controlling a PC using Wifi SSID's
