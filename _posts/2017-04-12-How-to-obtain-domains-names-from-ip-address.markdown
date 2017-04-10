@@ -22,7 +22,7 @@ How you can see the inverse resolution not work very well because isn't designed
 
 One solution is use the search's engine Bing. Bing have a dorck that permit search by ip. Using this dork you can view the results and determinate the domain names.
 
-->![Screenshot from bing using IP dork](./_img/riojasalud.png)<-
+->![Screenshot from bing using IP dork](https://github.com/dsfau/dsfau.github.com/blob/master/_posts/_img/riojasalud.png)<-
 
 Using the Bing's API you can make a script that do it automatily, for example this:
 
