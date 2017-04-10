@@ -72,7 +72,7 @@ nomina.riojasalud.es
 ```
 Or elpais.com
 ```bash
-apolo@pegasus:~/$ python searchdomain.py -k 3abeac6437bf4661b660c1e91b95dc0b -i 91.216.63.240
+apolo@pegasus:~/$ python searchdomain.py -k $your_api_key -i 91.216.63.240
 elpais.com
 economia.elpais.com
 internacional.elpais.com
