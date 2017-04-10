@@ -18,7 +18,7 @@ apolo@pegasus:~/$ host 195.235.64.148
 148.64.235.195.in-addr.arpa is an alias for 148.144.64.235.195.in-addr.arpa.
 148.144.64.235.195.in-addr.arpa domain name pointer 148.red-195-235-64.customer.static.ccgg.telefonica.net.
 ```
-How you can see the inverse resolution not work very well.
+How you can see the inverse resolution not work very well because isn't designed for do this function.
 
 One solution is use the search's engine Bing. Bing have a dorck that permit search by ip. Using this dork you can view the results and determinate the domain names.
 
