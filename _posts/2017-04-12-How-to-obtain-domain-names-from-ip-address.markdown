@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How to obtain domains names from IP address"
+title:  "How to obtain domain names from IP address"
 date:   2017-04-12 11:18:29 +0200
 categories: blog
 ---
-# How to obtain domains names from IP address
+# How to obtain domain names from IP address
 In internet is very easy obtain the ip address asociated a domain name, but do the inverse operation is more dificult.
 You  can use the resolution inverse of DNS but will not obtain a complete list of the sites hosted in this IP.
 
