@@ -10,7 +10,7 @@ In Logroño (La Rioja) it was celebrated in ThinkTIC. I leave you the presentati
 
 ## Presentation
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/tvr0Ovzk72FwUN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DiegoSotoFau/seguridad-en-iot-74896845" title="Seguridad en IoT" target="_blank"></div></a></center>
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/tvr0Ovzk72FwUN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DiegoSotoFau/seguridad-en-iot-74896845" title="Seguridad en IoT" target="_blank"></a></strong></div></center>
 
 ## Demo vídeo Modbus
 
