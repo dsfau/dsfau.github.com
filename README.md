@@ -1,2 +1,2 @@
-# dsfau.github.com
+# dsfau.github.io
 This is my personal page
