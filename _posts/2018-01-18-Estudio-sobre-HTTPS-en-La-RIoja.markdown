@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "HTTPS research in La Rioja"
+title:  "Estudio sobre HTTPS en La Rioja"
 date:   2018-01-18 11:18:29 +0200
 categories: blog-ES
 ---
-# HTTPS research in La Rioja
+# Estudio sobre HTTPS en La Rioja
 
 Hace ya algunos meses (Junio del 2017) publiqué los resultados de un pequeño estudio realizado a las empresas de La Rioja para determinar el grado de implementación de HTTPS en las empresas de la comunidad.
 Los resultados no fueron muy buenos puesto que el grado de implementación para nada fue lo esperado.
