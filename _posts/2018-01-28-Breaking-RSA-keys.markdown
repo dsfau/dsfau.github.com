@@ -12,12 +12,14 @@ In first place is necessary select two prime numbers that we know as number "p" 
 
 ```
 p=7
-q=11```
+q=11
+```
 
 The next step is calculate N that is the result of p*q:
 
  ```
- N=7*11=77```
+ N=7*11=77
+ ```
 
  Now we need calculate phi(N), 'phi' is the Euler's phi function. This function counts the positive integers up to a given integer n that are relatively prime to n.
 
