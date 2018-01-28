@@ -41,10 +41,14 @@ The next step is calculate N that is the result of p*q:
  (13*37)%60=1
  d=37
  ```
+ 
  The number 'd' is a private exponent. Now we have all necessary numbers for compose the private and public keys.
  The private key is the number N and exponent 'd', and the public key is the number N and exponent 'e'.
+ 
+ ```
  PrivateK(77,37)
  PublicK(77,13)
+ ```
 
  # How we can cipher and decrypt messages?
 
